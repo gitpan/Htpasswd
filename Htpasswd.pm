@@ -164,7 +164,7 @@ __END__
 
 =head1 NAME
 
-Htpasswd
+Htpasswd - access to unix-type passwords for web access.
 
 
 =head1 SYNOPSIS
